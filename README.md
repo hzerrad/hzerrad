@@ -99,10 +99,10 @@
       	src="https://cdn.simpleicons.org/linkedin/0A66C2"
       	alt="hzerrad" height="30" width="40" />
   </a>
- 	<a href="https://twitter.com/hzerrad" target="blank">
+ 	<a href="https://twitter.com/hzerrad19" target="blank">
    <img align="center"
       	src="https://cdn.simpleicons.org/twitter/1DA1F2"
-      	alt="hzerrad" height="30" width="40" />
+      	alt="hzerrad19" height="30" width="40" />
   </a>
   <a href="https://www.upwork.com/freelancers/~0112ba4eddef747831?suggest-vem-skills&s=1110580752188690432" target="blank">
   	<img align="center"
@@ -113,10 +113,5 @@
     <img align="center"
          src="https://cdn.simpleicons.org/gmail/EA4335"
          alt="hzerrad" height="30" width="40" />
-  </a>
-  <a href="https://devdog.co">
-  	<img align="center"
-         src="https://devdog.co/static/a0d006cd92a61178da61d8bb475c6fba/416c3/devdog-text.webp"
-         alt="devdog" height="40" width="50" />
   </a>
 </p>
