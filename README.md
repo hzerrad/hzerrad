@@ -5,7 +5,7 @@
 ### About Me
 
 - 👨🏻‍💻 Currently working as a Senior Software Engineer.
-- 🧭 6 years of experience crafting software, and still learning and exploring the vast, amazing world of software engineering.
+- 🧭 5 years of experience crafting software, and still learning and exploring the vast, amazing world of software engineering.
 - 🤖 A.I. and Machine Learning enthusiast:
   - Publisher of: [EnsVAE: Ensemble Variational Autoencoders for Recommendations](https://ieeexplore.ieee.org/document/9224132)
 - ⭐️ Top contributor to [Buildable Integrations](https://github.com/buildable/connections).
