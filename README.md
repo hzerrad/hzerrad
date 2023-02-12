@@ -90,6 +90,9 @@
 </p>
 
 </br>
+### DevCard
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/hzerrad/hzerrad/blob/master/devcard.svg" width="400" alt="Houssem Eddine Zerrad's Dev Card"/></a>
 
 ### Connect with me:
 
