@@ -84,7 +84,7 @@
 </br>
 
 <p align="center">
-  <img align="center" 
+  <img
        src="https://github-readme-streak-stats.herokuapp.com/?user=hzerrad&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
        alt="hzerrad-contrib-stats" />
 </p>
@@ -92,8 +92,13 @@
 </br>
 
 ### DevCard
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~0112ba4eddef747831?suggest-vem-skills&s=1110580752188690432">
+    <img src="https://raw.githubusercontent.com/hzerrad/hzerrad/main/devcard.svg" width="400" alt="Houssem Eddine Zerrad's Dev Card"/>
+  </a>
+  <p align="center">Courtesy of <a href="https://daily.dev/">dailydotdev</a></p>
+</p>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/hzerrad/hzerrad/blob/master/devcard.svg" width="400" alt="Houssem Eddine Zerrad's Dev Card"/></a>
 
 ### Connect with me:
 
