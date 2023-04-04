@@ -10,7 +10,7 @@
   - Publisher of: [EnsVAE: Ensemble Variational Autoencoders for Recommendations](https://ieeexplore.ieee.org/document/9224132)
 - ☁️ Cloud Architect: Architected and Designed high-available, scalable systems and data processing pipelines on AWS and GCP.
 - 💻 Data and databases savvy with SQL, NoSQL, data modelling, processing, ETL pipelines, and machine learning.  
-- ⭐️ Top contributor to [Buildable Integrations](https://github.com/buildable/connections).
+- ⭐️ Top contributor to [Event Integrations](https://github.com/buildable/connections).
 - 📝 Aspiring blog writer at [Medium](https://medium.com/@hzerrad), [Hashnode](https://hzerrad.hashnode.dev/), and my [Personal Blog](https://devdog.co/)!
 - 🎮 Gamer at heart.
 
