@@ -21,7 +21,8 @@
   <img src="https://cdn.simpleicons.org/node.js/339933" alt="nodejs" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="typescript" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/go/00ADD8" alt="golang" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/elixir/4B275F" alt="golang" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/rust/000000" alt="rust" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/elixir/4B275F" alt="elixir" width="40" height="40"/>
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
       height="40" />
@@ -30,6 +31,8 @@
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="html5" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/css3/1572B6" alt="css3" width="40" height="40"/>
 </p>
+
+
 
 </br>
 
