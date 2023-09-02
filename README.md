@@ -130,7 +130,7 @@
   </a>
   <a href="https://hzerrad.dev">
       <img align="center"
-         src="https://cdn.simpleicons.org/gmail/EA4335](https://hzerrad.dev/images/logo-only-dark.svg"
-         alt="hzerrad" height="30" width="40" />
+         src="https://hzerrad.dev/images/logo-only-dark.svg"
+         alt="hzerrad" height="50" width="50" />
   </a>
 </p>
