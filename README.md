@@ -123,7 +123,7 @@
          src="https://cdn.simpleicons.org/upwork"
          alt="Houssem Eddine Z." height="30" width="40" />
   </a>
-  <a href="mailto:hzerrad96@gmail.com">
+  <a href="mailto:contact@hzerrad.dev">
     <img align="center"
          src="https://cdn.simpleicons.org/gmail/EA4335"
          alt="hzerrad" height="30" width="40" />
