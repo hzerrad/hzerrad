@@ -118,7 +118,7 @@
       	src="https://cdn.simpleicons.org/twitter/1DA1F2"
       	alt="hzerrad19" height="30" width="40" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~0112ba4eddef747831?suggest-vem-skills&s=1110580752188690432" target="_blank">
+  <a href="https://www.upwork.com/freelancers/hzerrad" target="_blank">
   	<img align="center"
          src="https://cdn.simpleicons.org/upwork"
          alt="Houssem Eddine Z." height="30" width="40" />
