@@ -5,11 +5,12 @@
 ### About Me
 
 - 👨🏻‍💻 Currently working as a Senior Software Engineer.
-- 🧭 7 years of experience crafting software, and still learning and exploring the vast, amazing world of software engineering.
+- 🧭 6 years of experience crafting software, and still learning and exploring the vast, amazing world of software engineering.
 - 🤖 A.I. and Machine Learning enthusiast:
   - Publisher of: [EnsVAE: Ensemble Variational Autoencoders for Recommendations](https://ieeexplore.ieee.org/document/9224132)
 - ☁️ Cloud Architect: Architected and Designed highly-available, scalable systems and data processing pipelines on AWS and GCP.
 - 💻 Data and databases savvy with SQL, NoSQL, data modelling, processing, ETL pipelines, and machine learning.  
+- ⭐️ Top contributor to [Event Integrations](https://github.com/buildable/connections).
 - 📝 Aspiring blog writer at [Medium](https://medium.com/@hzerrad), [Hashnode](https://hzerrad.hashnode.dev/), and my [Personal Blog](https://devdog.co/)!
 - 🎮 Gamer at heart.
 
@@ -20,7 +21,7 @@
   <img src="https://cdn.simpleicons.org/node.js/339933" alt="nodejs" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="typescript" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/go/00ADD8" alt="golang" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/rust/000000" alt="rust" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/rust/7a7a7a" alt="rust" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/elixir/4B275F" alt="elixir" width="40" height="40"/>
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
@@ -39,9 +40,9 @@
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/express" alt="express" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/express/7a7a7a" alt="express" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/nestjs" alt="nestjs" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/flask" alt="flask" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/flask/7a7a7a" alt="flask" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/django" alt="django" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/react" alt="react" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/tailwindcss" alt="tailwindcss" width="40" height="40" />
@@ -51,7 +52,7 @@
   <img src="https://cdn.simpleicons.org/kubernetes" alt="kubernetes" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/apachehadoop" alt="apache-hadoop" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/apachespark" alt="apache-spark" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/apachekafka" alt="apache-kafka" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/apachekafka/7a7a7a" alt="apache-kafka" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/apachehive" alt="apache-hive" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/postgresql" alt="postgresql" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/mysql" alt="mysql" width="40" height="40" />
@@ -63,13 +64,13 @@
   <img src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/keras" alt="keras" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/nginx" alt="nginx" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/circleci" alt="cicleci" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/circleci/7a7a7a" alt="cicleci" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/travisci" alt="travisci" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/jenkins" alt="jenkins" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/terraform" alt="terraform" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/pulumi" alt="pulumi" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/googlecloud" alt="gcp" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/amazonaws" alt="amazon-aws" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/7a7a7a" alt="amazon-aws" width="40" height="40" />
 </p>
 
 </br>
