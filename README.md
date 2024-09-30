@@ -115,7 +115,7 @@
   </a>
  	<a href="https://twitter.com/hzerrad19" target="_blank">
    <img align="center"
-      	src="https://cdn.simpleicons.org/twitter/1DA1F2"
+      	src="https://cdn.simpleicons.org/x/FFFFFF"
       	alt="hzerrad19" height="30" width="40" />
   </a>
   <a href="https://www.upwork.com/freelancers/hzerrad" target="_blank">
