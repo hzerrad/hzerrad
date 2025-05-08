@@ -19,7 +19,7 @@
   <img src="https://cdn.simpleicons.org/node.js/339933" alt="nodejs" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="typescript" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/go/00ADD8" alt="golang" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/rust/7a7a7a" alt="rust" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/rust/7a7a7b" alt="rust" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/elixir/4B275F" alt="elixir" width="40" height="40"/>
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
