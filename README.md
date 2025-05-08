@@ -45,7 +45,7 @@
   <img src="https://cdn.simpleicons.org/react" alt="react" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/tailwindcss" alt="tailwindcss" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/flutter" alt="flutter" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/electron" alt="electron" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/electron/7a7a7a" alt="electron" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/docker" alt="docker" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/kubernetes" alt="kubernetes" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/apachehadoop" alt="apache-hadoop" width="40" height="40" />
