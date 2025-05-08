@@ -66,7 +66,7 @@
   <img src="https://cdn.simpleicons.org/travisci/7a7a7a" alt="travisci" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/jenkins" alt="jenkins" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/terraform" alt="terraform" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/pulumi" alt="pulumi" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/pulumi/7a7a7a" alt="pulumi" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/googlecloud" alt="gcp" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/amazonwebservices/7a7a7a" alt="amazon-aws" width="40" height="40" />
 </p>
