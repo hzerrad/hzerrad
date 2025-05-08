@@ -96,9 +96,7 @@
 
 ### DevCard
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~0112ba4eddef747831?suggest-vem-skills&s=1110580752188690432">
-    <img src="https://raw.githubusercontent.com/hzerrad/hzerrad/main/devcard.svg" width="400" alt="Houssem Eddine Zerrad's Dev Card"/>
-  </a>
+  <a href="https://app.daily.dev/hzerrad"><img src="https://api.daily.dev/devcards/v2/TO6QQ2SZBQYNoJkzX0B28.png?r=gbw" width="356" alt="Houssem Eddine Zerrad's Dev Card"/></a>
   <p align="center">Courtesy of <a href="https://daily.dev/">dailydotdev</a></p>
 </p>
 
