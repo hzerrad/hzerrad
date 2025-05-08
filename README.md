@@ -45,7 +45,7 @@
   <img src="https://cdn.simpleicons.org/react" alt="react" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/tailwindcss" alt="tailwindcss" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/flutter" alt="flutter" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/electron/7a7a7a" alt="electron" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/electron" alt="electron" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/docker" alt="docker" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/kubernetes" alt="kubernetes" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/apachehadoop" alt="apache-hadoop" width="40" height="40" />
@@ -63,7 +63,7 @@
   <img src="https://cdn.simpleicons.org/keras" alt="keras" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/nginx" alt="nginx" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/circleci/7a7a7a" alt="cicleci" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/travisci" alt="travisci" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/travisci/7a7a7a" alt="travisci" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/jenkins" alt="jenkins" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/terraform" alt="terraform" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/pulumi" alt="pulumi" width="40" height="40" />
