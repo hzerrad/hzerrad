@@ -4,12 +4,12 @@
 
 ### About Me
 
-- 👨🏻‍💻 Currently working as a Senior Software Engineer.
-- 🧭 8 years of experience crafting software, and still learning and exploring the vast, amazing world of software engineering.
+- 👨🏻‍💻 Currently working as a Staff Software Engineer.
+- 🧭 +8 years of experience crafting software, and still learning and exploring the vast, amazing world of software engineering.
 - 🤖 A.I. and Machine Learning enthusiast:
   - Publisher of: [EnsVAE: Ensemble Variational Autoencoders for Recommendations](https://ieeexplore.ieee.org/document/9224132)
 - ☁️ Cloud Architect: Architected and Designed highly-available, scalable systems and data processing pipelines on AWS and GCP.
-- 💻 Data and databases savvy with SQL, NoSQL, data modelling, processing, ETL pipelines, and machine learning.  
+- 💻 Data and databases savvy with SQL, NoSQL, data modelling, processing, ETL pipelines, and machine learning.
 - 🎮 Gamer at heart.
 
 ### Programming Languages:
