@@ -10,8 +10,6 @@ Based in Sétif, Algeria · MSc Computer Science (AI specialization), 2020
 
 **[ensvae](https://github.com/hzerrad/ensvae)** — A variational-autoencoder method for fusing heterogeneous expert models in a shared latent space, with base models swappable per task. Demonstrated on recommendation via a GloVe + GRU pairing. MSc research, published in [IEEE Xplore](https://ieeexplore.ieee.org/document/9224132). Python, TensorFlow.
 
-**[python-benchmarks](https://github.com/hzerrad/python-benchmarks)** — Benchmark comparisons across recent Python versions.
-
 ## Writing
 
 I write occasionally about backend infrastructure, caching strategies, application-layer encryption, and the kinds of platform problems that don't make it into product demos.
