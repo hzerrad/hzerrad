@@ -1,6 +1,6 @@
 # Houssem Eddine Zerrad
 
-Staff Software Engineer & Cloud Architect. Backend and data platforms, primarily Go and Python on Kubernetes. Currently at Ordaos Bio (biotech AI). Co-founder at [SAUVIE](https://sauvie.io), building CloudCare — an EHR for Algerian private clinics.
+Senior Software Engineer & Cloud Architect. Backend and data platforms, primarily Go and Python on Kubernetes. Currently at Ordaos Bio (biotech AI). Co-founder at [SAUVIE](https://sauvie.io), building CloudCare — an EHR for Algerian private clinics.
 
 MSc Computer Science (AI specialization), 2020
 
